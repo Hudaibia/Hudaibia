@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Hudaibia
 - 👀 I’m interested in ...SwiftUi , Solidity and Sketch
-- 🌱 I’m currently learning ...Unity
-- 💞️ I’m looking to collaborate on ...UNITY , SwiftUi and blockchain. 
+- 🌱 I’m currently learning ...Soloidity
+- 💞️ I’m looking to collaborate on  , SwiftUi and blockchain. 
 - 📫 How to reach me ...
 
 <!---
